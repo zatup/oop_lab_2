@@ -1,0 +1,13 @@
+D:\1Учёба\ООП\2laba\bin\Debug\netcoreapp3.1\2laba.exe
+D:\1Учёба\ООП\2laba\bin\Debug\netcoreapp3.1\2laba.deps.json
+D:\1Учёба\ООП\2laba\bin\Debug\netcoreapp3.1\2laba.runtimeconfig.json
+D:\1Учёба\ООП\2laba\bin\Debug\netcoreapp3.1\2laba.runtimeconfig.dev.json
+D:\1Учёба\ООП\2laba\bin\Debug\netcoreapp3.1\2laba.dll
+D:\1Учёба\ООП\2laba\bin\Debug\netcoreapp3.1\2laba.pdb
+D:\1Учёба\ООП\2laba\obj\Debug\netcoreapp3.1\2laba.csprojAssemblyReference.cache
+D:\1Учёба\ООП\2laba\obj\Debug\netcoreapp3.1\2laba.AssemblyInfoInputs.cache
+D:\1Учёба\ООП\2laba\obj\Debug\netcoreapp3.1\2laba.AssemblyInfo.cs
+D:\1Учёба\ООП\2laba\obj\Debug\netcoreapp3.1\2laba.csproj.CoreCompileInputs.cache
+D:\1Учёба\ООП\2laba\obj\Debug\netcoreapp3.1\2laba.dll
+D:\1Учёба\ООП\2laba\obj\Debug\netcoreapp3.1\2laba.pdb
+D:\1Учёба\ООП\2laba\obj\Debug\netcoreapp3.1\2laba.genruntimeconfig.cache
